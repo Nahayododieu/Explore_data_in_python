@@ -1,0 +1,4 @@
+STUDENT RECORDS REPORT
+Number of students: 8
+Class average: 73.2
+Top student: Olivier (91.7)

@@ -1,0 +1,9 @@
+student_id,name,programme,quiz,assignment,lab,average,grade
+S001,Aline,IS,78.0,82.0,75.0,78.3,B
+S002,Jean,CS,65.0,70.0,68.0,67.7,C
+S003,Grace,IS,90.0,88.0,92.0,90.0,A
+S004,Eric,CS,55.0,60.0,58.0,57.7,D
+S005,Diane,IS,72.0,65.0,70.0,69.0,C
+S006,Patrick,CS,84.0,79.0,81.0,81.3,A
+S007,Claudine,IS,48.0,52.0,50.0,50.0,D
+S008,Olivier,CS,95.0,91.0,89.0,91.7,A
